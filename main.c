@@ -71,7 +71,7 @@ int main()
     int tCentreY = bPosY + (bHeight / 2);
 
     char bText1[] = "Click to start inputting";
-    char bText2[] = "Click to end inputting";
+    char bText2[] = "Start typing. Click to stop.";
 
     bool inputState = false;    //Checker for  reading input
 
